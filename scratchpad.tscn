@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://bpk7uknpjujm0"]
+
+[ext_resource type="Texture2D" uid="uid://ciu4p3dc1k6vh" path="res://characters/red_pikmin.png" id="1_iy7nk"]
+[ext_resource type="Texture2D" uid="uid://cmmhsm55tknqt" path="res://characters/icon.svg" id="1_r6xo5"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Player" type="Player" parent="."]
+position = Vector2(176, 80)
+texture = ExtResource("1_r6xo5")
+
+[node name="RedPikmin" type="RedPikmin" parent="."]
+position = Vector2(93, 92)
+texture = ExtResource("1_iy7nk")
