@@ -1,0 +1,3 @@
+[submodule "gdext/godot-rust-scratchpad-lib"]
+	path = gdext/godot-rust-scratchpad-lib
+	url = git@github.com:kwilson33/godot-rust-scratchpad-lib.git
