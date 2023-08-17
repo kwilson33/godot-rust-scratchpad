@@ -6,7 +6,7 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="Player" type="Player" parent="."]
-position = Vector2(176, 80)
+position = Vector2(231, 90)
 texture = ExtResource("1_r6xo5")
 
 [node name="RedPikmin" type="RedPikmin" parent="."]
